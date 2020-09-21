@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YVFPFLBD
 
 [Document2]
-DocumentPath=PCB_Minitek127.PcbDoc
+DocumentPath=PCB_Minitek127-16pin.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KPOQQMGW
 
 [Document3]
-DocumentPath=Schematic.SchDoc
+DocumentPath=Schematic-16pin.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,10 +104,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Sample_holder\Design Rule Check - PCB_Minitek127.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
